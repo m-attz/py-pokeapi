@@ -15,7 +15,9 @@ on the pokemon video games.
 
 
 # Installation
+Please make sure that you have the required dependency "requests" by using the below command.
 
+``` pip install requests ```
 
 ## PyPI
 I *extremely* advise that this package is downloaded from pip using the following command below.
